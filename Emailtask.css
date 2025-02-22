@@ -1,0 +1,150 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+#outer_divison{
+    width: 100vw;
+    height: 100vh;
+    margin: 0px;
+    background-color: rgb(30, 30, 30);
+}
+#inner_divison{
+    width: 70%;
+    height: 60%;
+    background-color: black;
+    margin-left: 15%;
+    margin-top: 140px;
+    border-radius: 40px;
+}
+#left_division,#right_division{
+    width: 50%;
+    height: 100%;
+    float: left;
+    border-radius: 30px;
+}
+#google_logo_image{
+    width: 50px;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+#sign_paragraph{
+    font-size: 35px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 50px;
+    color: white;
+}
+#use_google_account{
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 50px;
+    margin-top: 20px;
+    color: white;
+}
+#fieldset_email{
+    width: 73%;
+    height: 60px;
+    margin-top: 100px;
+    border-color: lightblue;
+    border-radius: 5px;
+    margin-left: 10px;
+}
+#legend_eamil{
+    margin-left: 10px;
+    padding: 4px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: lightblue;
+}
+#email_input_box{
+    width: 90%;
+    height: 90%;
+    padding-bottom: 0px;
+    background-color: black;
+    border: none;
+    outline: none;
+    margin-left: 5px;
+    color: white;
+    padding-left: 10px;
+}
+#forget_password_paragraph{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top: 7px;
+    margin-left: 10px;
+    font-size: 16px;
+    color: lightblue;
+}
+#not_your_paragraph{
+    color: lightblue;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top: 60px;
+    margin-left: 10px;
+}
+#learn_more_paragraph{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 10px;
+    text-decoration: none;
+}
+#create_account_button{
+    width: 120px;
+    height: 40px;
+    margin-left: 250px;
+    margin-top: 80px;
+    font-size: 16px;
+    border: none;
+    outline: none;
+    color: lightblue;
+    background-color: transparent;   
+}
+#next_button{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 50px;
+    width: 80px;
+    height: 40px;
+    background-color:lightblue;
+    color: darkblue;
+    border-radius: 20px;
+}
+#multiple_options_button{
+    width: 200px;
+    height: 30px;
+    margin-left: 240px;
+    border: none;
+    outline: none;
+    background-color: transparent;
+    color: white;
+    
+}
+#choose_option{
+    color: black;
+    background-color: grey;
+}
+#help_button{
+    margin-left: 630px;
+    margin-top: 10px;
+    width: 50px;
+    height: 30px;
+    border: none;
+    background-color: transparent;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#privacy_button{
+    width: 70px;
+    height: 30px;
+    margin-left: 20px;
+    margin-top: 25px;
+    border: none;
+    outline: none;
+    background-color: transparent;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#terms_button{
+    width: 60px;
+    height: 30px;
+    border: none;
+    margin-left: 20px;
+    padding: 5px;
+    background-color: transparent;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
